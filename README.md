@@ -11,7 +11,7 @@ Forked challenge improved in the following ways:
 
 -Organizied CSS file to follow the intented structure of the HTML document
 
-The website can be viewed here at:
+The website can be viewed here at:    https://skyllarb.github.io/octocode/
 
 
 
