@@ -1,5 +1,6 @@
 # Horiseon Refactored Code
 Forked challenge improved in the following ways:
+
 -Refactored divs into proper HTML5 semantic elements
 
 -Certified headings follow a sequential order
@@ -10,15 +11,7 @@ Forked challenge improved in the following ways:
 
 -Organizied CSS file to follow the intented structure of the HTML document
 
-The website can be viewed here at:
-
-
-
-
-
-
-
-
+The website can be viewed here at: https://skyllarb.github.io/urban-octo-telegram/
 
 
 
