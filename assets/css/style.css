@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* header*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -74,7 +74,7 @@ main {
     display: inline-block;
     margin-left: 20px;
 }
-
+/*right side section of page*/
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -107,7 +107,7 @@ aside img {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*left/main section of page*/
 main section {
     margin-bottom: 20px;
     padding: 50px;
@@ -124,7 +124,7 @@ main section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* css for footer*/
 footer {
     padding: 30px;
     clear: both;
